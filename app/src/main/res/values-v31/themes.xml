@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.Starting" parent="Theme.EjerciciosDialog">
+        <item name="android:windowSplashScreenAnimatedIcon">@color/teal_200</item>
+    </style>
+</resources>
